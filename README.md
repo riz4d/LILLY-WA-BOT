@@ -3,11 +3,9 @@
 | All Features 📢|Available ☑️|Version 🔎|
 | ------------- | ------------ | ---------- |
 | Admin Commands|✅|1.0|
-| AFK|✅|1.2|
 | AI Scanner|✅|1.1|
 | Add & Kick User|✅|1.0|
 | Carbon.sh Plugin|✅|1.4|
-| Deep AI APIs|✅|1.0
 | Ban & Unban User|✅|1.0|
 | FFMPEG Support|✅|1.6|
 | Filter Support|✅|1.2|
